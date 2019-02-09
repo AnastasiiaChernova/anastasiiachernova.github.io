@@ -1,0 +1,34 @@
+body {
+background-color:#FAF5FF;
+}	
+table {
+    background-color:#E6E6FA; 
+	border-collapse: collapse;
+    border: 10px;
+    border-color:#9370DB;
+    width:600px;
+    margin:auto;
+}
+th, td {
+border:5px double #9370DB;
+width:20%;
+padding:10px 15px;
+}
+a:hover {
+    background: #4B0082;
+    color: #DDA0DD;
+} 
+.rightpic{
+float:right;
+margin: 0 0 5px 5px;
+}
+.f3{
+	font-size:150%;
+}	
+.f4{
+	font-size:130%;
+	text-align:justify;
+}	
+.pic2 {
+	margin: 10px 50px 0 0;
+}
